@@ -1,4 +1,4 @@
-FROM rauliu/docker-ubuntu-dev
+FROM rauliu/ubuntu-dev
 MAINTAINER Raul Liu "https://github.com/rauliu"
 
 ENV TOMCAT_VERSION 8.0.26
